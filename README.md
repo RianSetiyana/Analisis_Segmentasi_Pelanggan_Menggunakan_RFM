@@ -93,7 +93,7 @@ plt.show()
 
 ### Hasil
 
-![Treemap](Images/Treemap.PNG)
+![Treemap](Images/Treemap.png)
 
 ## Karakteristik Segmen Pelanggan
 
@@ -148,7 +148,7 @@ plt.show()
 
 ### Hasil
 
-![RFM](Images/RFM.PNG)
+![RFM](Images/RFM.png)
 
 # Insights
 
@@ -165,7 +165,7 @@ File dashboard dapat dilihat disini: [My_Dashboard](Power_BI/My_Dashboard.pbix)
 
 ### Tampilan Dashboard:
 
-![My_Dashboard](Images/My_Dashboard.PNG)
+![My_Dashboard](Images/My_Dashboard.png)
 
 # Kesimpulan
 
