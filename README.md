@@ -165,7 +165,7 @@ File dashboard dapat dilihat disini: [My_Dashboard](Power_BI/My_Dashboard.pbix)
 
 ### Tampilan Dashboard:
 
-![My_Dashboard](Images/My_Dashboard.png)
+<img src="Images/My_Dashboard.png" width="700">
 
 # Kesimpulan
 
